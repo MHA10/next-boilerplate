@@ -22,3 +22,8 @@ yarn
 ```
 yarn dev
 ```
+
+## Install MUI
+```
+yarn add @mui/material @emotion/react @emotion/styled
+```
